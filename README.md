@@ -24,7 +24,7 @@ After this I want to continue my learning on some concepts that are still quite 
 ```html
 <button id="carousel-button-prev" class = "carousel-button" aria-lables="Previous slide"><</button>
 ```
-- Keyframes - 
+- Keyframes - Keyframes rule specificies the animation code.  For best browser support we should always include 0% and 100% but you can have more such as 25$, 50% etc whatever suits the needs.  
 ```css
 .carousel-item-visible{
     display: block;
@@ -41,7 +41,7 @@ After this I want to continue my learning on some concepts that are still quite 
 }
 ```
 
-- For of - 
+- for of - Similar to *'for in'* however is more suitable when having to loop through a sequence in a particular order.  Whereas for in is more suited to iterating through when order is not important, less suitable for arrays.  
 
 ## Links
 
